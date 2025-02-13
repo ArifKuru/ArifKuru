@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ArifKuru</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- 🔭 I’m currently working on [Readability.Lib](https://github.com/ArifKuru/ReadabilityLib)
+- 🔭 I’m currently working at [Kav Yazılım](https://kavyazilim.com/)
 
 - 🌱 I’m currently learning **Django,Python,Frontend**
 
