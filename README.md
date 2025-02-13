@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Kav Yazılım](https://kavyazilim.com/)
 
-- 🌱 I’m currently learning **Django,Python,Frontend**
+- 🌱 I’m currently learning **PHP,Python,Backend**
 
 - 📫 How to reach me **kuru.arif2000@gmail.com**
 
