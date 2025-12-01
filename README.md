@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHAKKCdFLVEKw/profile-displaybackgroundimage-shrink_350_1400/B4DZUBYwfTHwAY-/0/1739485022780?e=1761177600&v=beta&t=cZzhXoY_YHzp4A8bCGsxfiCNjYpXQX-Ou_dFHiT3vYo)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHAKKCdFLVEKw/profile-displaybackgroundimage-shrink_350_1400/B4DZUBYwfTHwAY-/0/1739485022780?e=1766016000&v=beta&t=HhYC0YIpDR_hp2KmnvWgx7q0UEyXIoOwYr00TGWd2Es)
 <h1 align="center">Hi 👋, I'm ArifKuru</h1>
 <h3 align="center">Computer Engineer</h3>
 
