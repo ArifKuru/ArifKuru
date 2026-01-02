@@ -45,28 +45,7 @@ Some of my award-winning projects mentioned in my CV:
 | **Readability.lib** | AI-supported library/platform for text readability and analysis. | `Python`, `Django`, `Gemini`, `OpenAI`, `GPT-2`, `Stable Diffusion` | 🏆 **Eng. Project of the Year '24** |
 | **Wanderlust** | AI-powered mobile application for travel planning. | `Flutter`, `Dart`, `OpenAI API`, `Firebase` | 🏆 **Eng. Project of the Year '23** |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ArifKuru">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArifKuru&show_icons=true&theme=dark&hide_border=true&locale=en" height="180" alt="stats graph" />
-  </a>
-  
-  <a href="https://github.com/ArifKuru">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifKuru&layout=compact&theme=dark&hide_border=true&locale=en" height="180" alt="languages graph" />
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
----
 <div align="center">
   <p>Feel free to reach out!</p>
   <p>© 2026 Arif Kuru</p>
