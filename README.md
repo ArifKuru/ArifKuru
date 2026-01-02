@@ -65,5 +65,5 @@ Some of my award-winning projects mentioned in my CV:
 ---
 <div align="center">
   <p>Feel free to reach out!</p>
-  <p>© 2024 Arif Kuru</p>
+  <p>© 2026 Arif Kuru</p>
 </div>
