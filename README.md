@@ -19,7 +19,7 @@ Hi! I'm **Arif**, a Computer Engineering student at Beykoz University. I focus o
 - 🔭 I’m currently working at **[KAV Yazılım](https://kavyazilim.com/)** as a Backend Developer Intern, developing B2B e-commerce and management panels.
 - 🎓 I studied Digital Automation Engineering at **University of Modena and Reggio Emilia (Italy)** as an Erasmus+ student.
 - 🏆 I won the "Engineering Project of the Year" awards in **2023** and **2024** with my projects.
-- 💬 Ask me about **PHP, Python, C#, .NET, API Architectures, and AI Integrations**.
+- 💬 Ask me about **C#, .NET, PHP, Python, API Architectures, and AI Integrations**.
 
 ---
 
@@ -45,7 +45,25 @@ Some of my award-winning projects mentioned in my CV:
 | **Readability.lib** | AI-supported library/platform for text readability and analysis. | `Python`, `Django`, `Gemini`, `OpenAI`, `GPT-2`, `Stable Diffusion` | 🏆 **Eng. Project of the Year '24** |
 | **Wanderlust** | AI-powered mobile application for travel planning. | `Flutter`, `Dart`, `OpenAI API`, `Firebase` | 🏆 **Eng. Project of the Year '23** |
 
+---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArifKuru&show_icons=true&theme=tokyonight&hide_border=true&locale=en" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArifKuru&layout=compact&theme=tokyonight&hide_border=true&locale=en" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArifKuru/ArifKuru/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 <div align="center">
   <p>Feel free to reach out!</p>
   <p>© 2026 Arif Kuru</p>
