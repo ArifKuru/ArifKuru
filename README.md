@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Arif%20Kuru&fontSize=70&fontColor=ffffff&desc=Backend%20Developer%20%7C%20Computer%20Engineering%20Student&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=250&section=header&text=Arif%20Kuru&fontSize=70&fontColor=ffffff&descAlign=50&descAlignY=60" width="100%"/>
 </div>
+
 
 <div align="center">
 
